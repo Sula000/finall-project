@@ -1,0 +1,913 @@
+@media(max-width:1700px) {
+
+    .home_page_header {
+        padding: 26px 150px;
+
+    }
+
+
+}
+
+@media(max-width:1600px) {
+
+    /* Artwork Page */
+
+    .artwork_text_div {
+        top: 40%;
+
+    }
+
+    .div_for_contact {
+        width: 30%;
+    }
+}
+
+@media(max-width:1500px) {
+    footer {
+        padding: 32px 280px 57px 280px;
+
+    }
+
+    /* Artwork Page */
+
+    .search_div {
+        width: 60%;
+    }
+
+    .div_for_contact {
+        width: 35%;
+    }
+}
+
+@media(max-width:1400px) {
+
+    .home_page_header {
+        padding: 26px 50px;
+
+    }
+
+    .section_1 {
+
+        width: 70%;
+
+    }
+
+    .div_for_home_page_photo {
+
+        width: 70%;
+    }
+
+    .div_for_position {
+        padding: 10px 15px;
+        top: 75%;
+        left: 38%;
+        transform: translate(-75%, -38%);
+    }
+
+    .txt_div {
+        width: 40%;
+    }
+
+    table {
+        width: 30%;
+    }
+
+    /* Contact Page */
+
+    .div_for_contact {
+        width: 40%;
+    }
+
+
+}
+
+@media(max-width:1300px) {
+    .mainphoto {
+        height: 650px;
+    }
+
+    .section_3_photodiv {
+        width: 100%;
+    }
+
+    footer {
+        padding: 32px 200px 57px 200px;
+
+    }
+
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+
+
+
+    .contact_article {
+        margin: 150px auto;
+        width: 65%;
+
+    }
+}
+
+@media(max-width:1200px) {
+
+    .text_div {
+        width: 70%;
+    }
+
+    .main_phoot_btn {
+        width: 40%;
+    }
+
+    .txt_div {
+        width: 50%;
+    }
+
+    /* Artwork Page */
+
+
+    .search_div {
+        width: 70%;
+    }
+
+    .artwork_input {
+        padding: 19px 50px 19px 5px;
+
+    }
+
+    .artwork_section {
+        width: 95%;
+
+    }
+
+    .p_for_dolar {
+        font-size: 1.25rem;
+
+    }
+
+    .product_icon {
+        font-size: 1.5rem;
+    }
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+
+    .div_for_contact {
+        width: 45%;
+    }
+
+    .contact_article {
+        width: 70%;
+        margin: 140px auto;
+
+    }
+}
+
+@media(max-width:1100px) {
+    .section_1 {
+        width: 80%;
+
+
+    }
+
+    .home_figcaption {
+        font-size: 1rem;
+
+    }
+
+    .section_3 {
+        margin: 130px auto;
+        width: 90%;
+    }
+
+    footer {
+        padding: 32px 100px 57px 100px;
+
+    }
+
+    table {
+        width: 35%;
+    }
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+
+
+    .contact_main_photo {
+
+        height: 700px;
+    }
+
+    .contact_article {
+        width: 75%;
+        margin: 130px auto;
+
+    }
+}
+
+@media(max-width:1000px) {
+
+    .home_page_header {
+        padding: 26px 20px;
+
+    }
+
+    ul {
+        gap: 30px;
+    }
+
+    .section_2 {
+
+        padding: 80px 0px 80px 0px;
+    }
+
+    .div_for_home_page_photo {
+        display: none;
+    }
+
+    .div_for_mobile_responsive {
+        margin-inline: auto;
+        display: flex;
+        justify-content: space-between;
+        width: 90%;
+    }
+
+    .mobile_photo1 {
+        width: 38%;
+    }
+
+    .mobile_photo2 {
+        width: 29%;
+    }
+
+    .div_h2 {
+        margin-bottom: 30px;
+    }
+
+    .txt_div {
+        width: 60%;
+    }
+
+    /* Artwork Page */
+
+    .artwork_mainphoto {
+        height: 500px;
+    }
+
+
+    .search_div {
+        width: 80%;
+    }
+
+    .artwork_input {
+        padding: 19px 40px 19px 5px;
+
+    }
+
+    .down_figure_div {
+        display: none;
+    }
+
+
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+
+
+
+    .contact_main_photo {
+
+        height: 680px;
+    }
+
+    .div_for_contact {
+        width: 50%;
+    }
+
+    .contact_article {
+        width: 80%;
+        margin: 120px auto;
+
+    }
+}
+
+@media(max-width:900px) {
+    .mainphoto {
+
+        height: 600px;
+    }
+
+    footer {
+        padding: 32px 20px 57px 20px;
+
+    }
+
+    /* Artwork Page */
+
+
+    .artwork_h5 {
+        font-size: 1rem;
+    }
+
+    .p_for_dolar {
+        font-size: 1rem;
+
+    }
+
+    .product_icon {
+        font-size: 1.25rem;
+        background: none;
+    }
+
+    table {
+        width: 40%;
+    }
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+
+
+
+
+    .contact_main_photo {
+
+        height: 650px;
+    }
+
+    .div_for_contact {
+
+        width: 55%;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+    }
+
+    .contact_article {
+        width: 85%;
+        margin: 110px auto;
+
+    }
+}
+
+@media(max-width:800px) {
+    .section_1 {
+        margin: 64px auto;
+    }
+
+    .home_page_figure_div {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .home_page_figure {
+        width: 50%;
+    }
+
+    .div_for_mobile_responsive {
+        flex-direction: column;
+        gap: 60px;
+    }
+
+    .photo_for_mobile_responsive {
+        width: 100%;
+    }
+
+    .section_3 {
+        width: 100%;
+    }
+
+    .txt_div {
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .email {
+        width: 90%;
+    }
+
+    .div_h2 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+
+
+    .home_page_article {
+        width: 90%;
+
+    }
+
+    /* Artwor Page */
+
+    .search_div {
+        width: 90%;
+    }
+
+    .artwork_input {
+        padding: 19px 0px 19px 5px;
+
+    }
+
+    .for_mobile-responsive {
+        display: none;
+    }
+
+    .artwork_figure {
+        width: 31%;
+    }
+
+    table {
+        width: 45%;
+    }
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+    .contact_main_photo {
+
+        height: 630px;
+    }
+
+    .div_for_contact {
+
+        width: 60%;
+    }
+
+    .contact_article {
+        width: 90%;
+        margin: 100px auto;
+
+    }
+}
+
+@media(max-width:750px) {
+    .div_for_contact {
+        top: 60%;
+    }
+
+    .main_logo {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+}
+
+@media(max-width:700px) {
+    .menu_bar_icon {
+        display: flex;
+        align-items: center;
+        font-size: 2.300rem;
+        color: white;
+        cursor: pointer;
+    }
+
+
+    .close_icon {
+        display: flex;
+        align-self: flex-start;
+        margin: 5px 0px 0px 15px;
+        font-size: 2rem;
+        color: white;
+        cursor: pointer;
+    }
+
+    .header_ul {
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header_nav {
+        width: 40%;
+        padding-bottom: 15px;
+        flex-direction: column;
+        align-items: center;
+        background: #B53B1B;
+        position: absolute;
+        top: 100%;
+        left: -100%;
+        transition: 1s;
+    }
+
+    .gaqroba_gamochena {
+        left: 0;
+    }
+
+
+    .mainphoto {
+
+        height: 500px;
+    }
+
+    .text_div {
+        top: 60%;
+        width: 90%;
+    }
+
+    .home_page_figure {
+        width: 70%;
+    }
+
+    .section_3 {
+        margin: 70px auto;
+        width: 80%;
+    }
+
+    .home_page_section3_div {
+        width: 100%;
+    }
+
+    .section_3_photodiv {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .div_for_position {
+        padding: 15px 17px;
+        top: 85%;
+        left: 20%;
+        transform: translate(-85%, -20%);
+    }
+
+    .section_3_photodiv::before {
+        display: none;
+    }
+
+    .section_3_photodiv::after {
+        display: none;
+
+    }
+
+    .section_3_btn_for_mobile {
+        display: flex;
+        padding: 15px 60px;
+    }
+
+    .second_main_photo {
+        height: 200px;
+    }
+
+    .txt_div {
+        width: 80%;
+    }
+
+    .email {
+        width: 100%;
+    }
+
+    .home_page_submit_btn {
+        font-size: 1rem;
+    }
+
+    .input::placeholder {
+        font-size: 1rem;
+
+    }
+
+    .home_page_article {
+        margin: 120px auto 80px auto;
+
+    }
+
+    .article_p_div {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .article_div {
+        width: 100%;
+    }
+
+    footer {
+        flex-direction: column;
+        align-items: center;
+        gap: 60px;
+    }
+
+    .ft_div {
+        align-items: center;
+
+    }
+
+    .footer_icon_div {
+        margin-top: 30px;
+
+
+    }
+
+    .contact_div {
+        align-items: center;
+    }
+
+    /* artwork page */
+
+    .artwork_mainphoto {
+        height: 400px;
+    }
+
+    .artwork_text_div {
+        top: 35%;
+
+    }
+
+    .artwork_btn {
+        margin-top: 30px;
+
+    }
+
+    .artwork_h2 {
+        font-size: 2rem;
+    }
+
+
+    .artwork_h5 {
+
+        font-size: 1.25rem;
+    }
+
+    .artwork_br {
+        display: flex;
+    }
+
+    .artwork_h5::after {
+        font-size: 1.5rem;
+    }
+
+    .artwork_section {
+        width: 80%;
+    }
+
+    .category_div {
+        width: 80%;
+        margin-inline: auto;
+
+    }
+
+    .category_h2 {
+        font-size: 2rem;
+    }
+
+    .top_figur_div {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .artwork_figure {
+        width: 80%;
+    }
+
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+
+    .contact_main_photo {
+
+        height: 610px;
+    }
+
+    .div_for_contact {
+
+        width: 70%;
+    }
+
+    .div_contact {
+        width: 100%;
+    }
+
+    .contact_article {
+        margin: 90px auto;
+    }
+
+    .contact_article_div {
+
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .article_contact_main_div {
+        padding-left: 30px;
+    }
+
+    .contact_map {
+        width: 100%;
+
+    }
+
+}
+
+
+@media(max-width:600px) {
+
+
+
+    .mainphoto {
+        display: none;
+    }
+
+    .text_div {
+        width: 100%;
+    }
+
+    .mobile_main_photo {
+        display: flex;
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    h1 {
+        font-size: 1.80rem;
+    }
+
+    .text {
+        margin: 16px 0px 22px 0px;
+
+    }
+
+    .section_2 {
+
+        padding: 32px 0px 32px 0px;
+    }
+
+    .div_for_mobile_responsive {
+        gap: 20px;
+    }
+
+    .txt_div {
+        width: 90%;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .email {
+        width: 78%;
+    }
+
+    .div_h2 {
+
+        font-size: 1.5rem;
+    }
+
+    .div_h2 {
+
+        margin-bottom: 15px;
+    }
+
+    .home_page_article {
+        margin: 60px auto 28px auto;
+
+    }
+
+    .article_p_div {
+        gap: 20px;
+    }
+
+    .div_for_position {
+
+        top: 80%;
+        left: 25%;
+        transform: translate(-80%, -30%);
+
+    }
+
+
+    /* Artwork Page */
+
+
+    .artwork_h2 {
+        font-size: 1.5rem;
+    }
+
+    .artwork_btn {
+        padding: 15px 40px;
+
+    }
+
+    .search_div {
+        flex-direction: column;
+        align-items: start;
+        gap: 20px;
+        width: 80%;
+    }
+
+    .search_form {
+        width: 100%;
+    }
+
+    .artwork_br {
+        display: none;
+    }
+
+    .category_div {
+        width: 100%;
+
+
+    }
+
+    .category_p {
+        font-size: 1.2rem;
+    }
+
+    .category_p::after {
+        font-size: 1.2rem;
+    }
+
+    .artwork_figure {
+        width: 100%;
+    }
+
+    table {
+        width: 60%;
+    }
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+
+
+    .contact_main_photo {
+        display: none;
+
+    }
+
+    .contact_mobile_main_photo {
+        width: 100%;
+
+        display: flex;
+        object-fit: cover;
+        object-position: center;
+
+    }
+
+    .div_for_contact {
+        top: 62%;
+        width: 80%;
+    }
+
+    .contact_article {
+        margin: 80px auto;
+    }
+}
+
+
+@media(max-width:500px) {
+    .home_page_header {
+        padding: 26px 15px;
+
+    }
+
+
+    .txt_div {
+        width: 100%;
+
+    }
+
+    .email {
+        width: 90%;
+    }
+
+    .artwork_section {
+        width: 90%;
+    }
+
+    table {
+        width: 75%;
+    }
+
+    /* Contact page */
+
+    /* MAin PhoTo For Contact Page */
+
+    .contact_mobile_main_photo {
+        height: 560px;
+    }
+
+    .div_for_contact {
+        width: 90%;
+    }
+
+    .div_contact {
+        padding: 24px 10px;
+    }
+
+    .contact_form {
+        gap: 20px;
+    }
+
+    .contact_article {
+        margin: 70px auto;
+    }
+}
